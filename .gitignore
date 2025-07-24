@@ -18,3 +18,6 @@ gradio_cached_examples/28/log.csv
 *.jpg
 *.json
 *_local.py
+
+__pycache__/
+.venv/

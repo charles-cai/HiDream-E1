@@ -1,0 +1,10 @@
+[project]
+name = "hidream-e1"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "flash-attn>=2.8.1",
+    "gradio>=5.38.1",
+    "tqdm>=4.67.1",
+]
